@@ -10,7 +10,7 @@ Create a Google Calendar dedicated to monitoring and find your Calendar ID by cl
 
 <center><img style="width:70%;" src="image/appscript.png" /></center>
 
-* Paste the script
+* Paste the [script](Appscript_rss_calendar)
 
 <center><img style="width:70%;" src="image/edit code.png" /></center>
 
